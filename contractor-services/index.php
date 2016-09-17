@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
-    <title>Ground Up</title>
+    <title>GroundUp</title>
     <meta name="description" content="free website template" />
     <meta name="keywords" content="enter your keywords here" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -10,6 +10,7 @@
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/portfolio.css" rel="stylesheet" type="text/css" />
     <link href="css/dark.css" rel="stylesheet" type="text/css" />
+    <link href="css/customize.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.galleriffic.js"></script>
     <script type="text/javascript" src="js/jquery.opacityrollover.js"></script>
@@ -90,15 +91,13 @@
     <div id="main">
         <div id="header">
             <div id="welcome">
-                <h1><span>Ground</span> UP</h1>
+                <h1><span>Ground</span>UP</h1>
             </div><!--end welcome-->
             <div id="menubar">
                 <ul id="menu">
                     <li class="current"><a href="index.html">Home</a></li>
-                    <li><a href="ourwork.html">Our Work</a></li>
-                    <li><a href="testimonials.html">Testimonials</a></li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="ourwork.html">About Us</a></li>
+                    <li><a href="#">Sign Up</a></li>
                 </ul>
             </div><!--end menubar-->
         </div><!--end header-->
@@ -111,99 +110,27 @@
                         <a class="pageLink prev" style="visibility: hidden;" href="#" title="Previous Page"></a>
                         <ul class="thumbs noscript">
                             <li>
-                                <a class="thumb" href="images/1.jpg"><img src="images/1_thumb.jpg" alt="one" /></a>
+                                <a class="thumb" href="images/construction.jpg"></a>
                                 <div class="caption">
-                                    <div class="image-title portfolio_two">A picture of an office building</div>
+                                    <div class="image-title portfolio_two">Construction Projects</div>
                                 </div>
                             </li>
                             <li>
-                                <a class="thumb" href="images/2.jpg"><img src="images/2_thumb.jpg" alt="two" /></a>
+                                <a class="thumb" href="images/culinary.jpg"></a>
                                 <div class="caption">
-                                    <div class="image-title portfolio_two">Another picture of an office building</div>
+                                    <div class="image-title portfolio_two">Cooking/Catering</div>
                                 </div>
                             </li>
                             <li>
-                                <a class="thumb" href="images/3.jpg"><img src="images/3_thumb.jpg" alt="three" /></a>
+                                <a class="thumb" href="images/edu.jpg"></a>
                                 <div class="caption">
-                                    <div class="image-title portfolio_two">A third picture of an office building</div>
+                                    <div class="image-title portfolio_two">Tutoring/Learning</div>
                                 </div>
                             </li>
                             <li>
-                                <a class="thumb" href="images/4.jpg"><img src="images/4_thumb.jpg" alt="four" /></a>
+                                <a class="thumb" href="images/IT.jpg"></a>
                                 <div class="caption">
-                                    <div class="image-title portfolio_two">A picture of some apartments</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/1.jpg"><img src="images/1_thumb.jpg" alt="one" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/2.jpg"><img src="images/2_thumb.jpg" alt="two" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">Another picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/3.jpg"><img src="images/3_thumb.jpg" alt="three" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A third picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/4.jpg"><img src="images/4_thumb.jpg" alt="four" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A picture of some apartments</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/1.jpg"><img src="images/1_thumb.jpg" alt="one" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/2.jpg"><img src="images/2_thumb.jpg" alt="two" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">Another picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/3.jpg"><img src="images/3_thumb.jpg" alt="three" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A third picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/4.jpg"><img src="images/4_thumb.jpg" alt="four" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A picture of some apartments</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/1.jpg"><img src="images/1_thumb.jpg" alt="one" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/2.jpg"><img src="images/2_thumb.jpg" alt="two" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">Another picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/3.jpg"><img src="images/3_thumb.jpg" alt="three" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A third picture of an office building</div>
-                                </div>
-                            </li>
-                            <li>
-                                <a class="thumb" href="images/4.jpg"><img src="images/4_thumb.jpg" alt="four" /></a>
-                                <div class="caption">
-                                    <div class="image-title portfolio_two">A picture of some apartments</div>
+                                    <div class="image-title portfolio_two">Troubleshooting/Servicing</div>
                                 </div>
                             </li>
                         </ul>
@@ -226,23 +153,25 @@
     <div id="footer">
         <div id="footer_container">
             <div class="footer_container_box">
-                <h4>Latest Work</h4>
-                <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
-                <a href="ourwork.html">Read more</a>
+                <h4>Testimonials</h4>
+                <p style="text-align: center">I had been thinking about building a deck in my backyard for years, but I didn’t like the pressure that salespeople from local contractors employ when giving estimates. By using GroundUp, I was able to have multiple contractors compete on price, and I was able to look at their reputations with the community before making my choice. Thank you for providing such an easy way for me to have my deck built.</p>
+                <p style="display: block; float:right">Peggy Sue</p>
+                <p style="clear: both; float:right">Grand Rapids, MI</p>
             </div><!--close footer_container_box-->
             <div class="footer_container_box">
-                <h4>Latest Testimonials</h4>
-                <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
-                <a href="testimonials.html">Read more</a>
+                <h4>Testimonials</h4>
+                <p style="text-align: center">GroundUp is the best thing that has ever happened to my landscaping business. My company has always made quality and customer service high priorities, and GroundUp’s reputation system has allowed prospective clients to see how satisfied my previous customers have been. We’ve been able to expand across the city thanks to GroundUp!</p>
+                <p style="display: block; float:right">John Doe</p>
+                <p style="clear: both; float:right">Albuquerque, NM</p>
             </div><!--close footer_container_box-->
             <div class="footer_container_boxl">
                 <h4>Latest Projects</h4>
-                <p> Phasellus laoreet feugiat risus. Ut tincidunt, ante vel fermentum iaculis.</p>
-                <a href="projects.html">Read more</a>
+                <p style="text-align: center">I work for the City of Boulder’s facilities management department. GroundUp has enabled us to find contractors to maintain our buildings quickly and easily. It used to take hours to find reputable contractors to paint a school or reshingle a DMV center, but now it can all be done in one place! GroundUp has saved us countless hours over the past few months.</p>
+                <p style="display: block; float:right">Al Smith</p>
+                <p style="clear: both; float:right">Boulder, CO</p>
             </div><!--close footer_container_box1-->
             <br style="clear:both" />
             <br />
-            <a href="http://fotogrph.com/">Images</a> | website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
         </div><!--close footer_container-->
     </div><!--close footer-->
 
