@@ -33,6 +33,7 @@
     <Content Include="images\3_thumb.jpg" />
     <Content Include="images\4.jpg" />
     <Content Include="images\4_thumb.jpg" />
+    <Content Include="images\aboutUs.jpg" />
     <Content Include="images\contact.jpg" />
     <Content Include="images\image_transparent.png" />
     <Content Include="images\loader.gif" />
