@@ -19,4 +19,11 @@
   <ItemGroup>
     <Compile Include="index.php" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="contact.html" />
+    <Content Include="index.html" />
+    <Content Include="ourwork.html" />
+    <Content Include="projects.html" />
+    <Content Include="testimonials.html" />
+  </ItemGroup>
 </Project>
