@@ -90,10 +90,10 @@
 <body>
 	<div id="main">
 		<div id="header">
-			<div id="welcome">
-				<h1><span>Ground</span>UP</h1>
+			<div style="width: 400px;" id="welcome">
+				<h1><span>Ground</span>Up<span style="letter-spacing: -1px; font-size:20px;">&nbsp;&nbsp;&nbsp;no job is too large or too small</span></h1>
 			</div><!--end welcome-->
-			<div id="menubar">
+			<div style="width: 400px;" id="menubar">
 				<ul id="menu">
 					<li class="current"><a href="index.php">Home</a></li>
 					<li><a href="ourwork.html">About Us</a></li>
@@ -173,6 +173,7 @@
 						<a class="pageLink next" style="visibility: hidden;" href="#" title="Next Page"></a>
 					</div>
 				</div>
+				
 				<div class="content">
 					<div class="slideshow-container">
 						<div id="loading" class="loader"></div>
