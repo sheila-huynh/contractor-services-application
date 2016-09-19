@@ -192,7 +192,7 @@
 			<div class="footer_container_box">
 				<h4> </h4>
 				<p style="text-align: justify; margin-top: 43px;">I had been thinking about building a deck in my backyard for years, but I didn’t like the pressure that salespeople from local contractors employ when giving estimates. By using GroundUp, I was able to have multiple contractors compete on price, and I was able to look at their reputations with the community before making my choice. Thank you for providing such an easy way for me to have my deck built.</p>
-				<p style="display: block; float:right; margin-top: -20px;">Peggy Sue</p>
+				<p style="display: block; float:right; margin-top: 10px;">Peggy Sue</p>
 				<p style="clear: both; float:right; margin-top: -25px;">Grand Rapids, MI</p>
 			</div><!--close footer_container_box-->
 			<div class="footer_container_box">
@@ -203,7 +203,7 @@
 			</div><!--close footer_container_box-->
 			<div class="footer_container_boxl">
 				<p style="text-align: justify; margin-top: 43px;">I work for the City of Boulder’s facilities management department. GroundUp has enabled us to find contractors to maintain our buildings quickly and easily. It used to take hours to find reputable contractors to paint a school or reshingle a DMV center, but now it can all be done in one place! GroundUp has saved us countless hours over the past few months.</p>
-				<p style="display: block; float:right; margin-top: 11px;">Al Smith</p>
+				<p style="display: block; float:right; margin-top: 10px;">Al Smith</p>
 				<p style="clear: both; float:right; margin-top: -25px;">Boulder, CO</p>
 			</div><!--close footer_container_box1-->
 			<br style="clear:both" />

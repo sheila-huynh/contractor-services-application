@@ -45,7 +45,6 @@
     <Content Include="images\projects.jpg" />
     <Content Include="images\testimonials.jpg" />
     <Content Include="images\transparent.png" />
-    <Content Include="index.html" />
     <Content Include="js\jquery.galleriffic.js" />
     <Content Include="js\jquery.min.js" />
     <Content Include="js\jquery.opacityrollover.js" />
